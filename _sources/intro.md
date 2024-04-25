@@ -8,7 +8,7 @@ Check out the content pages bundled with this sample book to see more.
 ````{tab-set}
 ```{tab-item} Things I learned
 1. Cleaning the cache before building a book is important.
-2. How to use Jupyter book
+2. How to use Jupyter Book
 3. How to use Markdown
 ```
 
